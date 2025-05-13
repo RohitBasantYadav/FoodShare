@@ -56,25 +56,25 @@
 ## 🖼️ Images
 
 ### Homepage  
-![Homepage](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
+![Homepage](https://raw.githubusercontent.com/RohitBasantYadav/FoodShare/refs/heads/main/frontend/public/foodshare-homepage.png)
 
 ### Post Form  
-![Post Form](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
+![Post Form](https://raw.githubusercontent.com/RohitBasantYadav/FoodShare/refs/heads/main/frontend/public/foodshare-postform.png)
 
 ### Map View  
-![Map View](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
+![Map View](https://raw.githubusercontent.com/RohitBasantYadav/FoodShare/refs/heads/main/frontend/public/foodshare-mapview.png)
 
 ### Dashboard 
-![Dashboard](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
+![Dashboard](https://raw.githubusercontent.com/RohitBasantYadav/FoodShare/refs/heads/main/frontend/public/foodshare-dashboard.png)
 
 ### Profile Page  
-![Profile Page](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
+![Profile Page](https://raw.githubusercontent.com/RohitBasantYadav/FoodShare/refs/heads/main/frontend/public/foodshare-profile.png)
 
 ### Login Page  
-![Login](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
+![Login](https://raw.githubusercontent.com/RohitBasantYadav/FoodShare/refs/heads/main/frontend/public/foodshare-login.png)
 
 ### Signup Page  
-![Register](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
+![Register](https://raw.githubusercontent.com/RohitBasantYadav/FoodShare/refs/heads/main/frontend/public/foodshare-signup.png)
 
 ---
 
