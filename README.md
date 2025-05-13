@@ -59,22 +59,22 @@
 ![Homepage](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
 
 ### Post Form  
-![Homepage](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
+![Post Form](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
 
 ### Map View  
-![Homepage](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
+![Map View](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
 
-### Claim & Status Tracker  
-![Homepage](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
+### Dashboard 
+![Dashboard](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
 
 ### Profile Page  
-![Homepage](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
+![Profile Page](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
 
 ### Login Page  
-![Homepage](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
+![Login](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
 
 ### Signup Page  
-![Homepage](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
+![Register](https://raw.githubusercontent.com/RohitBasantYadav/Big_basket_clone/main/frontend/public/Home.png)
 
 ---
 
